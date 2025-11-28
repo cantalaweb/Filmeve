@@ -109,7 +109,7 @@ Large dataset files are compressed due to GitHub size limits:
 ```bash
 # Decompress all .csv.zip files
 cd data/processed
-unzip *.csv.zip
+unzip *.zip
 cd ../..
 ```
 
@@ -124,7 +124,7 @@ If you want to re-scrape TMDB metadata:
    ```
 3. Run scraper:
    ```bash
-   python src/tmdb_scraper.py
+   uv run src/tmdb_scraper.py
    ```
 
 ---
@@ -134,12 +134,6 @@ If you want to re-scrape TMDB metadata:
 ### Training the Model
 
 Train the bias-reduced model with 5 winning strategies:
-
-```bash
-python src/train_model.py
-```
-
-Or
 
 ```bash
 uv run src/train_model.py
