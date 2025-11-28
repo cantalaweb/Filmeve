@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Generous Raters",
+    "description": "Generous raters who enjoy most movies",
+    "users": [
+      523,
+      348,
+      171,
+      452,
+      43
+    ]
+  },
+  {
+    "name": "Critical Raters",
+    "description": "Critical raters who are selective",
+    "users": [
+      160,
+      22,
+      287,
+      308,
+      153
+    ]
+  },
+  {
+    "name": "Prolific Raters",
+    "description": "Prolific raters with many ratings",
+    "users": [
+      414,
+      599,
+      474,
+      448,
+      274
+    ]
+  },
+  {
+    "name": "Steven Spielberg Fans",
+    "description": "Users who enjoy steven spielberg fans",
+    "users": [
+      105,
+      275,
+      357,
+      202,
+      62
+    ]
+  },
+  {
+    "name": "Christopher Nolan Fans",
+    "description": "Users who enjoy christopher nolan fans",
+    "users": [
+      18,
+      184,
+      414,
+      305,
+      380
+    ]
+  },
+  {
+    "name": "Quentin Tarantino Fans",
+    "description": "Users who enjoy quentin tarantino fans",
+    "users": [
+      610,
+      599,
+      414,
+      305,
+      41
+    ]
+  },
+  {
+    "name": "Ridley Scott Fans",
+    "description": "Users who enjoy ridley scott fans",
+    "users": [
+      414,
+      305,
+      313,
+      608,
+      603
+    ]
+  },
+  {
+    "name": "Martin Scorsese Fans",
+    "description": "Users who enjoy martin scorsese fans",
+    "users": [
+      610,
+      448,
+      414,
+      105,
+      249
+    ]
+  },
+  {
+    "name": "Alfred Hitchcock Fans",
+    "description": "Users who enjoy alfred hitchcock fans",
+    "users": [
+      603,
+      590,
+      387,
+      275,
+      219
+    ]
+  },
+  {
+    "name": "Stanley Kubrick Fans",
+    "description": "Users who enjoy stanley kubrick fans",
+    "users": [
+      275,
+      169,
+      339,
+      305,
+      108
+    ]
+  },
+  {
+    "name": "Star Wars Fans",
+    "description": "Users who enjoy star wars fans",
+    "users": [
+      414,
+      62,
+      249,
+      210,
+      534
+    ]
+  },
+  {
+    "name": "Marvel Fans",
+    "description": "Users who enjoy marvel fans",
+    "users": [
+      380,
+      249,
+      610,
+      184,
+      586
+    ]
+  },
+  {
+    "name": "Lord of the Rings Fans",
+    "description": "Users who enjoy lord of the rings fans",
+    "users": [
+      249,
+      305,
+      586,
+      380,
+      62
+    ]
+  }
+]

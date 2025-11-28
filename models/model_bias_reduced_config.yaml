@@ -1,0 +1,27 @@
+base_models:
+- XGBoost
+- LightGBM
+- CatBoost
+- GradientBoosting
+bias_reduction:
+  enabled: true
+  num_strategies: 5
+  strategies:
+  - expectation
+  - cinephile
+  - collaborative
+  - popularity
+  - review_bombing
+meta_learner: Ridge
+metrics:
+  test_mae: 0.5187462677214125
+  test_r2: 0.495007006751114
+  test_rmse: 0.6931601909035306
+  train_mae: 0.4776222472574384
+  train_r2: 0.5828618725077956
+  train_rmse: 0.6302727862923497
+model_type: Stacked Ensemble (Bias-Reduced)
+n_features: 106
+test_samples: 20165
+timestamp: '2025-11-27T13:38:21.047633'
+training_samples: 80658

@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Current File (uv)",
+      "type": "python",
+      "request": "launch",
+      "program": "",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "preLaunchTask": "uv: sync"
+    },
+    {
+      "name": "Uvicorn: main:app (uv)",
+      "type": "python",
+      "request": "launch",
+      "module": "uvicorn",
+      "args": ["main:app", "--reload"],
+      "console": "integratedTerminal",
+      "preLaunchTask": "uv: sync"
+    }
+  ]
+}

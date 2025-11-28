@@ -1,0 +1,8 @@
+{
+  "total_ratings": 100357,
+  "train_ratings": 61876,
+  "test_ratings": 38481,
+  "train_users": 530,
+  "test_users": 80,
+  "description": "User-based split - no user appears in both sets"
+}

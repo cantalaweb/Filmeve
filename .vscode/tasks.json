@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "uv: sync",
+      "type": "shell",
+      "command": "uv sync",
+      "options": { "cwd": "" },
+      "presentation": { "reveal": "silent" }
+    },
+    {
+      "label": "uv: pytest",
+      "type": "shell",
+      "command": "uv run -- pytest -q",
+      "group": "test",
+      "problemMatcher": []
+    },
+    {
+      "label": "uv: run app",
+      "type": "shell",
+      "command": "uv run -- python -m uvicorn main:app --reload",
+      "problemMatcher": []
+    }
+  ]
+}

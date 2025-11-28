@@ -1,0 +1,56 @@
+{
+  "group_name": "Steven Spielberg Fans",
+  "group_description": "Users who enjoy steven spielberg fans",
+  "user_ids": [
+    105,
+    275,
+    357,
+    202,
+    62
+  ],
+  "best_slate_movie_ids": [
+    84273,
+    173963,
+    126088,
+    126921,
+    136359,
+    50999,
+    88448,
+    141718,
+    5416,
+    96608
+  ],
+  "best_slate_titles": [
+    "Zeitgeist: Moving Forward (2011)",
+    "Empties (2007)",
+    "A Flintstones Christmas Carol (1994)",
+    "The Fox and the Hound 2 (2006)",
+    "Scooby-Doo Goes Hollywood (1979)",
+    "Ugly Duckling and Me!, The (2006)",
+    "Paper Birds (P\u00e1jaros de papel) (2010)",
+    "Deathgasm (2015)",
+    "Cherish (2002)",
+    "Runaway Brain (1995) "
+  ],
+  "fitness": 3.9025942149704385,
+  "satisfaction": 4.9005953939990645,
+  "disagreement": 0.08941050114406657,
+  "user_scores": [
+    4.884915492970476,
+    5.063403155427519,
+    4.862007505418715,
+    4.79229081634395,
+    4.900359999834662
+  ],
+  "genre_distribution": {
+    "Comedy": 9,
+    "Drama": 2,
+    "Thriller": 1,
+    "Animation": 5,
+    "Documentary": 1,
+    "Sci-Fi": 1,
+    "Children": 3,
+    "Adventure": 1,
+    "Horror": 1
+  }
+}

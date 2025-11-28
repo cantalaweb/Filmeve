@@ -1,0 +1,16 @@
+best_params:
+  base_models:
+  - XGBoost
+  - LightGBM
+  - CatBoost
+  - GradientBoosting
+  cv: 5
+  meta_learner: Ridge
+metrics:
+  test_mae: 0.5491264899651899
+  test_r2: 0.5060833781884365
+  test_rmse: 0.7252209780487762
+model_type: Stacked Ensemble
+n_features: 100
+test_samples: 21444
+training_samples: 85774

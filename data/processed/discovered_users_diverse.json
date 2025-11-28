@@ -1,0 +1,1036 @@
+[
+  {
+    "category_name": "Generous Raters",
+    "description": "Generous raters who enjoy most movies",
+    "users": [
+      523,
+      348,
+      171,
+      452,
+      43,
+      122,
+      52,
+      168,
+      417,
+      543
+    ],
+    "user_details": [
+      {
+        "userId": 523,
+        "n_ratings": 73,
+        "mean_rating": 4.684931506849315,
+        "std_rating": 0.4526683949637823,
+        "n_high_ratings": 61,
+        "pct_high_ratings": 0.8356164383561644,
+        "n_low_ratings": 0,
+        "rating_range": 2.0
+      },
+      {
+        "userId": 348,
+        "n_ratings": 55,
+        "mean_rating": 4.672727272727273,
+        "std_rating": 0.4326723786023175,
+        "n_high_ratings": 45,
+        "pct_high_ratings": 0.8181818181818182,
+        "n_low_ratings": 0,
+        "rating_range": 1.5
+      },
+      {
+        "userId": 171,
+        "n_ratings": 82,
+        "mean_rating": 4.634146341463414,
+        "std_rating": 0.5986032120530903,
+        "n_high_ratings": 57,
+        "pct_high_ratings": 0.6951219512195121,
+        "n_low_ratings": 0,
+        "rating_range": 2.0
+      },
+      {
+        "userId": 452,
+        "n_ratings": 202,
+        "mean_rating": 4.556930693069307,
+        "std_rating": 0.6050997904202922,
+        "n_high_ratings": 123,
+        "pct_high_ratings": 0.6089108910891089,
+        "n_low_ratings": 2,
+        "rating_range": 3.0
+      },
+      {
+        "userId": 43,
+        "n_ratings": 114,
+        "mean_rating": 4.552631578947368,
+        "std_rating": 0.6795639578430088,
+        "n_high_ratings": 75,
+        "pct_high_ratings": 0.6578947368421053,
+        "n_low_ratings": 0,
+        "rating_range": 2.0
+      },
+      {
+        "userId": 122,
+        "n_ratings": 291,
+        "mean_rating": 4.5446735395189,
+        "std_rating": 0.492772746063483,
+        "n_high_ratings": 217,
+        "pct_high_ratings": 0.7457044673539519,
+        "n_low_ratings": 1,
+        "rating_range": 3.0
+      },
+      {
+        "userId": 52,
+        "n_ratings": 129,
+        "mean_rating": 4.48062015503876,
+        "std_rating": 0.6324651076566207,
+        "n_high_ratings": 83,
+        "pct_high_ratings": 0.6434108527131783,
+        "n_low_ratings": 0,
+        "rating_range": 2.0
+      },
+      {
+        "userId": 168,
+        "n_ratings": 94,
+        "mean_rating": 4.462765957446808,
+        "std_rating": 0.7304416166866335,
+        "n_high_ratings": 77,
+        "pct_high_ratings": 0.8191489361702128,
+        "n_low_ratings": 4,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 417,
+        "n_ratings": 67,
+        "mean_rating": 4.462686567164179,
+        "std_rating": 0.7246390576747392,
+        "n_high_ratings": 45,
+        "pct_high_ratings": 0.6716417910447762,
+        "n_low_ratings": 0,
+        "rating_range": 2.5
+      },
+      {
+        "userId": 543,
+        "n_ratings": 76,
+        "mean_rating": 4.453947368421052,
+        "std_rating": 1.294031508062941,
+        "n_high_ratings": 61,
+        "pct_high_ratings": 0.8026315789473685,
+        "n_low_ratings": 8,
+        "rating_range": 4.5
+      }
+    ]
+  },
+  {
+    "category_name": "Critical Raters",
+    "description": "Critical raters who are selective",
+    "users": [
+      160,
+      22,
+      287,
+      308,
+      153,
+      416,
+      34,
+      373,
+      517,
+      500
+    ],
+    "user_details": [
+      {
+        "userId": 160,
+        "n_ratings": 436,
+        "mean_rating": 2.706422018348624,
+        "std_rating": 1.5476508103207556,
+        "n_high_ratings": 88,
+        "pct_high_ratings": 0.2018348623853211,
+        "n_low_ratings": 215,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 22,
+        "n_ratings": 118,
+        "mean_rating": 2.5889830508474576,
+        "std_rating": 1.538163179094545,
+        "n_high_ratings": 15,
+        "pct_high_ratings": 0.1271186440677966,
+        "n_low_ratings": 48,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 287,
+        "n_ratings": 150,
+        "mean_rating": 2.61,
+        "std_rating": 1.498175624331901,
+        "n_high_ratings": 23,
+        "pct_high_ratings": 0.15333333333333332,
+        "n_low_ratings": 63,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 308,
+        "n_ratings": 113,
+        "mean_rating": 2.398230088495575,
+        "std_rating": 1.4912831424220934,
+        "n_high_ratings": 13,
+        "pct_high_ratings": 0.11504424778761062,
+        "n_low_ratings": 56,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 153,
+        "n_ratings": 179,
+        "mean_rating": 2.217877094972067,
+        "std_rating": 1.431983760532035,
+        "n_high_ratings": 13,
+        "pct_high_ratings": 0.07262569832402235,
+        "n_low_ratings": 91,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 416,
+        "n_ratings": 51,
+        "mean_rating": 3.0686274509803924,
+        "std_rating": 1.4318505782487823,
+        "n_high_ratings": 11,
+        "pct_high_ratings": 0.21568627450980393,
+        "n_low_ratings": 15,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 34,
+        "n_ratings": 86,
+        "mean_rating": 3.4186046511627906,
+        "std_rating": 1.356597094628535,
+        "n_high_ratings": 31,
+        "pct_high_ratings": 0.36046511627906974,
+        "n_low_ratings": 19,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 373,
+        "n_ratings": 100,
+        "mean_rating": 3.19,
+        "std_rating": 1.3535960336164636,
+        "n_high_ratings": 23,
+        "pct_high_ratings": 0.23,
+        "n_low_ratings": 28,
+        "rating_range": 4.0
+      },
+      {
+        "userId": 517,
+        "n_ratings": 392,
+        "mean_rating": 2.3877551020408165,
+        "std_rating": 1.3509125687904833,
+        "n_high_ratings": 38,
+        "pct_high_ratings": 0.09693877551020408,
+        "n_low_ratings": 188,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 500,
+        "n_ratings": 86,
+        "mean_rating": 3.244186046511628,
+        "std_rating": 1.3366863903533808,
+        "n_high_ratings": 13,
+        "pct_high_ratings": 0.1511627906976744,
+        "n_low_ratings": 21,
+        "rating_range": 4.0
+      }
+    ]
+  },
+  {
+    "category_name": "Prolific Raters",
+    "description": "Prolific raters with many ratings",
+    "users": [
+      414,
+      599,
+      474,
+      448,
+      274,
+      610,
+      68,
+      380,
+      606,
+      288
+    ],
+    "user_details": [
+      {
+        "userId": 414,
+        "n_ratings": 2679,
+        "mean_rating": 3.391004106009705,
+        "std_rating": 0.9328005963546999,
+        "n_high_ratings": 321,
+        "pct_high_ratings": 0.11982082866741321,
+        "n_low_ratings": 456,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 599,
+        "n_ratings": 2440,
+        "mean_rating": 2.6383196721311477,
+        "std_rating": 0.8162623219349492,
+        "n_high_ratings": 67,
+        "pct_high_ratings": 0.02745901639344262,
+        "n_low_ratings": 678,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 474,
+        "n_ratings": 2091,
+        "mean_rating": 3.3974175035868006,
+        "std_rating": 0.830848432022901,
+        "n_high_ratings": 215,
+        "pct_high_ratings": 0.10282161645145864,
+        "n_low_ratings": 253,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 448,
+        "n_ratings": 1860,
+        "mean_rating": 2.8486559139784946,
+        "std_rating": 1.0290682760773997,
+        "n_high_ratings": 118,
+        "pct_high_ratings": 0.06344086021505377,
+        "n_low_ratings": 607,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 274,
+        "n_ratings": 1343,
+        "mean_rating": 3.234549516008935,
+        "std_rating": 0.7619475118227407,
+        "n_high_ratings": 74,
+        "pct_high_ratings": 0.055100521221146684,
+        "n_low_ratings": 172,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 610,
+        "n_ratings": 1297,
+        "mean_rating": 3.6865844255975326,
+        "std_rating": 0.85812500573467,
+        "n_high_ratings": 327,
+        "pct_high_ratings": 0.25212027756360833,
+        "n_low_ratings": 69,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 68,
+        "n_ratings": 1252,
+        "mean_rating": 3.2308306709265175,
+        "std_rating": 0.8962083448416992,
+        "n_high_ratings": 162,
+        "pct_high_ratings": 0.12939297124600638,
+        "n_low_ratings": 175,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 380,
+        "n_ratings": 1210,
+        "mean_rating": 3.6702479338842977,
+        "std_rating": 0.9622437788017695,
+        "n_high_ratings": 276,
+        "pct_high_ratings": 0.228099173553719,
+        "n_low_ratings": 112,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 606,
+        "n_ratings": 1113,
+        "mean_rating": 3.657232704402516,
+        "std_rating": 0.7246831835246469,
+        "n_high_ratings": 172,
+        "pct_high_ratings": 0.1545372866127583,
+        "n_low_ratings": 45,
+        "rating_range": 4.5
+      },
+      {
+        "userId": 288,
+        "n_ratings": 1051,
+        "mean_rating": 3.148430066603235,
+        "std_rating": 0.8667645968168857,
+        "n_high_ratings": 80,
+        "pct_high_ratings": 0.07611798287345385,
+        "n_low_ratings": 199,
+        "rating_range": 4.0
+      }
+    ]
+  },
+  {
+    "category_name": "Steven Spielberg Fans",
+    "description": "Users who enjoy steven spielberg fans",
+    "users": [
+      105,
+      275,
+      357,
+      202,
+      62,
+      339,
+      66,
+      290,
+      169,
+      221
+    ],
+    "user_details": [
+      {
+        "userId": 105,
+        "count": 86,
+        "avg_rating": 4.22093023255814
+      },
+      {
+        "userId": 275,
+        "count": 55,
+        "avg_rating": 4.290909090909091
+      },
+      {
+        "userId": 357,
+        "count": 52,
+        "avg_rating": 4.086538461538462
+      },
+      {
+        "userId": 202,
+        "count": 44,
+        "avg_rating": 4.0227272727272725
+      },
+      {
+        "userId": 62,
+        "count": 43,
+        "avg_rating": 4.186046511627907
+      },
+      {
+        "userId": 339,
+        "count": 42,
+        "avg_rating": 4.226190476190476
+      },
+      {
+        "userId": 66,
+        "count": 39,
+        "avg_rating": 4.076923076923077
+      },
+      {
+        "userId": 290,
+        "count": 36,
+        "avg_rating": 4.444444444444445
+      },
+      {
+        "userId": 169,
+        "count": 36,
+        "avg_rating": 4.277777777777778
+      },
+      {
+        "userId": 221,
+        "count": 32,
+        "avg_rating": 4.328125
+      }
+    ]
+  },
+  {
+    "category_name": "Christopher Nolan Fans",
+    "description": "Users who enjoy christopher nolan fans",
+    "users": [
+      18,
+      184,
+      414,
+      305,
+      380,
+      339,
+      610,
+      601,
+      279,
+      573
+    ],
+    "user_details": [
+      {
+        "userId": 18,
+        "count": 9,
+        "avg_rating": 4.277777777777778
+      },
+      {
+        "userId": 184,
+        "count": 8,
+        "avg_rating": 4.5625
+      },
+      {
+        "userId": 414,
+        "count": 8,
+        "avg_rating": 4.625
+      },
+      {
+        "userId": 305,
+        "count": 8,
+        "avg_rating": 4.25
+      },
+      {
+        "userId": 380,
+        "count": 8,
+        "avg_rating": 4.875
+      },
+      {
+        "userId": 339,
+        "count": 8,
+        "avg_rating": 4.25
+      },
+      {
+        "userId": 610,
+        "count": 7,
+        "avg_rating": 4.214285714285714
+      },
+      {
+        "userId": 601,
+        "count": 7,
+        "avg_rating": 4.642857142857143
+      },
+      {
+        "userId": 279,
+        "count": 7,
+        "avg_rating": 4.214285714285714
+      },
+      {
+        "userId": 573,
+        "count": 7,
+        "avg_rating": 4.928571428571429
+      }
+    ]
+  },
+  {
+    "category_name": "Quentin Tarantino Fans",
+    "description": "Users who enjoy quentin tarantino fans",
+    "users": [
+      610,
+      599,
+      414,
+      305,
+      41,
+      62,
+      249,
+      103,
+      122,
+      483
+    ],
+    "user_details": [
+      {
+        "userId": 610,
+        "count": 8,
+        "avg_rating": 4.5
+      },
+      {
+        "userId": 599,
+        "count": 8,
+        "avg_rating": 4.125
+      },
+      {
+        "userId": 414,
+        "count": 8,
+        "avg_rating": 4.1875
+      },
+      {
+        "userId": 305,
+        "count": 8,
+        "avg_rating": 4.625
+      },
+      {
+        "userId": 41,
+        "count": 7,
+        "avg_rating": 4.142857142857143
+      },
+      {
+        "userId": 62,
+        "count": 7,
+        "avg_rating": 4.785714285714286
+      },
+      {
+        "userId": 249,
+        "count": 7,
+        "avg_rating": 4.428571428571429
+      },
+      {
+        "userId": 103,
+        "count": 7,
+        "avg_rating": 4.714285714285714
+      },
+      {
+        "userId": 122,
+        "count": 6,
+        "avg_rating": 4.916666666666667
+      },
+      {
+        "userId": 483,
+        "count": 6,
+        "avg_rating": 4.416666666666667
+      }
+    ]
+  },
+  {
+    "category_name": "Ridley Scott Fans",
+    "description": "Users who enjoy ridley scott fans",
+    "users": [
+      414,
+      305,
+      313,
+      608,
+      603,
+      339,
+      555,
+      580,
+      469,
+      352
+    ],
+    "user_details": [
+      {
+        "userId": 414,
+        "count": 13,
+        "avg_rating": 4.038461538461538
+      },
+      {
+        "userId": 305,
+        "count": 8,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 313,
+        "count": 8,
+        "avg_rating": 4.125
+      },
+      {
+        "userId": 608,
+        "count": 8,
+        "avg_rating": 4.1875
+      },
+      {
+        "userId": 603,
+        "count": 7,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 339,
+        "count": 7,
+        "avg_rating": 4.357142857142857
+      },
+      {
+        "userId": 555,
+        "count": 7,
+        "avg_rating": 4.428571428571429
+      },
+      {
+        "userId": 580,
+        "count": 6,
+        "avg_rating": 4.083333333333333
+      },
+      {
+        "userId": 469,
+        "count": 6,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 352,
+        "count": 6,
+        "avg_rating": 4.5
+      }
+    ]
+  },
+  {
+    "category_name": "Martin Scorsese Fans",
+    "description": "Users who enjoy martin scorsese fans",
+    "users": [
+      610,
+      448,
+      414,
+      105,
+      249,
+      585,
+      282,
+      317,
+      339,
+      18
+    ],
+    "user_details": [
+      {
+        "userId": 610,
+        "count": 8,
+        "avg_rating": 4.8125
+      },
+      {
+        "userId": 448,
+        "count": 7,
+        "avg_rating": 4.571428571428571
+      },
+      {
+        "userId": 414,
+        "count": 7,
+        "avg_rating": 4.214285714285714
+      },
+      {
+        "userId": 105,
+        "count": 7,
+        "avg_rating": 4.571428571428571
+      },
+      {
+        "userId": 249,
+        "count": 7,
+        "avg_rating": 4.285714285714286
+      },
+      {
+        "userId": 585,
+        "count": 6,
+        "avg_rating": 4.833333333333333
+      },
+      {
+        "userId": 282,
+        "count": 6,
+        "avg_rating": 4.25
+      },
+      {
+        "userId": 317,
+        "count": 6,
+        "avg_rating": 4.333333333333333
+      },
+      {
+        "userId": 339,
+        "count": 6,
+        "avg_rating": 4.583333333333333
+      },
+      {
+        "userId": 18,
+        "count": 6,
+        "avg_rating": 4.166666666666667
+      }
+    ]
+  },
+  {
+    "category_name": "Alfred Hitchcock Fans",
+    "description": "Users who enjoy alfred hitchcock fans",
+    "users": [
+      603,
+      590,
+      387,
+      275,
+      219,
+      182,
+      391,
+      610,
+      305,
+      290
+    ],
+    "user_details": [
+      {
+        "userId": 603,
+        "count": 7,
+        "avg_rating": 4.428571428571429
+      },
+      {
+        "userId": 590,
+        "count": 7,
+        "avg_rating": 4.214285714285714
+      },
+      {
+        "userId": 387,
+        "count": 6,
+        "avg_rating": 4.166666666666667
+      },
+      {
+        "userId": 275,
+        "count": 6,
+        "avg_rating": 4.666666666666667
+      },
+      {
+        "userId": 219,
+        "count": 6,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 182,
+        "count": 6,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 391,
+        "count": 6,
+        "avg_rating": 4.333333333333333
+      },
+      {
+        "userId": 610,
+        "count": 5,
+        "avg_rating": 4.4
+      },
+      {
+        "userId": 305,
+        "count": 5,
+        "avg_rating": 4.6
+      },
+      {
+        "userId": 290,
+        "count": 5,
+        "avg_rating": 4.8
+      }
+    ]
+  },
+  {
+    "category_name": "Stanley Kubrick Fans",
+    "description": "Users who enjoy stanley kubrick fans",
+    "users": [
+      275,
+      169,
+      339,
+      305,
+      108,
+      119,
+      282,
+      534,
+      45,
+      187
+    ],
+    "user_details": [
+      {
+        "userId": 275,
+        "count": 30,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 169,
+        "count": 26,
+        "avg_rating": 4.25
+      },
+      {
+        "userId": 339,
+        "count": 25,
+        "avg_rating": 4.4
+      },
+      {
+        "userId": 305,
+        "count": 24,
+        "avg_rating": 4.270833333333333
+      },
+      {
+        "userId": 108,
+        "count": 21,
+        "avg_rating": 4.0476190476190474
+      },
+      {
+        "userId": 119,
+        "count": 19,
+        "avg_rating": 4.2105263157894735
+      },
+      {
+        "userId": 282,
+        "count": 18,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 534,
+        "count": 18,
+        "avg_rating": 4.083333333333333
+      },
+      {
+        "userId": 45,
+        "count": 18,
+        "avg_rating": 4.444444444444445
+      },
+      {
+        "userId": 187,
+        "count": 18,
+        "avg_rating": 4.333333333333333
+      }
+    ]
+  },
+  {
+    "category_name": "Star Wars Fans",
+    "description": "Users who enjoy star wars fans",
+    "users": [
+      414,
+      62,
+      249,
+      210,
+      534,
+      68,
+      610,
+      586,
+      220,
+      382
+    ],
+    "user_details": [
+      {
+        "userId": 414,
+        "count": 11,
+        "avg_rating": 4.045454545454546
+      },
+      {
+        "userId": 62,
+        "count": 10,
+        "avg_rating": 4.3
+      },
+      {
+        "userId": 249,
+        "count": 9,
+        "avg_rating": 4.388888888888889
+      },
+      {
+        "userId": 210,
+        "count": 9,
+        "avg_rating": 4.888888888888889
+      },
+      {
+        "userId": 534,
+        "count": 8,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 68,
+        "count": 8,
+        "avg_rating": 4.125
+      },
+      {
+        "userId": 610,
+        "count": 8,
+        "avg_rating": 4.25
+      },
+      {
+        "userId": 586,
+        "count": 8,
+        "avg_rating": 4.6875
+      },
+      {
+        "userId": 220,
+        "count": 7,
+        "avg_rating": 4.142857142857143
+      },
+      {
+        "userId": 382,
+        "count": 7,
+        "avg_rating": 4.428571428571429
+      }
+    ]
+  },
+  {
+    "category_name": "Marvel Fans",
+    "description": "Users who enjoy marvel fans",
+    "users": [
+      380,
+      249,
+      610,
+      184,
+      586,
+      475,
+      210,
+      68,
+      73,
+      393
+    ],
+    "user_details": [
+      {
+        "userId": 380,
+        "count": 22,
+        "avg_rating": 4.386363636363637
+      },
+      {
+        "userId": 249,
+        "count": 20,
+        "avg_rating": 4.225
+      },
+      {
+        "userId": 610,
+        "count": 17,
+        "avg_rating": 4.117647058823529
+      },
+      {
+        "userId": 184,
+        "count": 16,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 586,
+        "count": 13,
+        "avg_rating": 4.8076923076923075
+      },
+      {
+        "userId": 475,
+        "count": 13,
+        "avg_rating": 4.153846153846154
+      },
+      {
+        "userId": 210,
+        "count": 12,
+        "avg_rating": 4.541666666666667
+      },
+      {
+        "userId": 68,
+        "count": 11,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 73,
+        "count": 11,
+        "avg_rating": 4.590909090909091
+      },
+      {
+        "userId": 393,
+        "count": 10,
+        "avg_rating": 4.55
+      }
+    ]
+  },
+  {
+    "category_name": "Lord of the Rings Fans",
+    "description": "Users who enjoy lord of the rings fans",
+    "users": [
+      249,
+      305,
+      586,
+      380,
+      62,
+      382,
+      418,
+      139,
+      393,
+      408
+    ],
+    "user_details": [
+      {
+        "userId": 249,
+        "count": 6,
+        "avg_rating": 4.5
+      },
+      {
+        "userId": 305,
+        "count": 6,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 586,
+        "count": 6,
+        "avg_rating": 4.916666666666667
+      },
+      {
+        "userId": 380,
+        "count": 6,
+        "avg_rating": 4.166666666666667
+      },
+      {
+        "userId": 62,
+        "count": 6,
+        "avg_rating": 4.75
+      },
+      {
+        "userId": 382,
+        "count": 6,
+        "avg_rating": 4.75
+      },
+      {
+        "userId": 418,
+        "count": 5,
+        "avg_rating": 4.4
+      },
+      {
+        "userId": 139,
+        "count": 5,
+        "avg_rating": 4.0
+      },
+      {
+        "userId": 393,
+        "count": 5,
+        "avg_rating": 5.0
+      },
+      {
+        "userId": 408,
+        "count": 5,
+        "avg_rating": 4.6
+      }
+    ]
+  }
+]

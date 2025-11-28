@@ -1,0 +1,30 @@
+{
+    // Python settings
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    },
+    "python.analysis.extraPaths": [
+        "/src"
+    ],
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.typeCheckingMode": "off", // Disable Pylance type checking, allowing MyPy to do so.
+    "python.terminal.activateEnvironment": true,
+    "python.defaultInterpreterPath": "/.venv/bin/python3",
+    "python.languageServer": "Pylance",
+    "python.terminal.shellIntegration.enabled": true,
+
+    // Test settings
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.cwd": "/tests",
+    "python.testing.pytestPath": "/.venv/bin/pytest",
+    "python.testing.pytestArgs": ["-q"],
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+
+    // git settings
+      "git.enableSmartCommit": true,
+      "git.confirmSync": false,
+      "git.autofetch": true
+}
